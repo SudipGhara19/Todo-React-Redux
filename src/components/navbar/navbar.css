@@ -1,0 +1,8 @@
+.navbar{
+    background-color: rgb(147, 5, 255) !important;
+}
+
+.navbar-brand{
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
